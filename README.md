@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Osama 👋
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -8,7 +8,7 @@
 ✍️ &nbsp;In my free time, I read tech articles and books, and browse Awesome GitHub repos.\
 💬 &nbsp;Feel free to reach out to me for tech consulting, or just for some interesting discussion :\) \
 ✉️ &nbsp;You can send me an email at osamaalmomani32@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Almomani_resume.pdf](https://github.com/OsamaMomani/OsamaMomani/files/12052646/Almomani_resume.pdf) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [resume](https://github.com/OsamaMomani/OsamaMomani/files/12052646/Almomani_resume.pdf) for more details about me. I'm open to feedback and suggestions!
 
 <img width=150px alt="coffee" src="https://github.com/OsamaMomani/OsamaMomani/assets/54727130/608997c0-8db9-4047-b368-9dc8eca74f00" align="right"/>
 
