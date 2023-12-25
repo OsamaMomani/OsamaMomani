@@ -4,11 +4,9 @@
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I have a bachelor's degree in Network Engineering from [Jordan University of Science and Technology](https://www.just.edu.jo/).\
-🌱 &nbsp;I'm on track to learning more about Artificial Intelligence and Blockchain.\
+🌱 &nbsp;I'm on track to learning more about Artificial Intelligence and Machine Learning.\
 ✍️ &nbsp;In my free time, I read tech articles and books, and browse Awesome GitHub repos.\
-💬 &nbsp;Feel free to reach out to me for tech consulting, or just for some interesting discussion :\) \
-✉️ &nbsp;You can send me an email at osamaalmomani32@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [resume](https://github.com/OsamaMomani/OsamaMomani/files/12052646/Almomani_resume.pdf) for more details about me. I'm open to feedback and suggestions!
+💬 &nbsp;Feel free to reach out to me for tech consulting, or just for some interesting discussion :\)
 
 <img width=150px alt="coffee" src="https://github.com/OsamaMomani/OsamaMomani/assets/54727130/608997c0-8db9-4047-b368-9dc8eca74f00" align="right"/>
 
@@ -19,8 +17,12 @@
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash&logoColor=00599C)&nbsp;
 
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws&logoColor=007ACC)&nbsp;
 ![Terraform](https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=Terraform&logoColor=007ACC)&nbsp;
+![Puppet](https://img.shields.io/badge/-Puppet-05122A?style=flat&logo=puppet&logoColor=007ACC)&nbsp;
+![Ansible](https://img.shields.io/badge/-Ansible-05122A?style=flat&logo=ansible&logoColor=007ACC)&nbsp;
+
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws&logoColor=007ACC)&nbsp;
+![GCP](https://img.shields.io/badge/-GCP-05122A?style=flat&logo=google-cloud&logoColor=007ACC)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=Kubernetes&logoColor=007ACC)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker&logoColor=007ACC)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux&logoColor=007ACC)&nbsp;
